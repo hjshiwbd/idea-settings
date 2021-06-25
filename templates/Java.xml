@@ -24,7 +24,7 @@
       <option name="JAVA_STRING" value="false" />
     </context>
   </template>
-  <template name="offnull" value="Optional.ofNullable($var$).map(o-&gt;$end$);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="ofnull" value="Optional.ofNullable($var$).map(o-&gt;$end$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
