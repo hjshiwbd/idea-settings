@@ -37,4 +37,11 @@
       <option name="JAVA_STRING" value="false" />
     </context>
   </template>
+  <template name="newmap" value="Map&lt;String,Object&gt; cond = new HashMap&lt;String,Object&gt;() {{&#10;    put(&quot;$key$&quot;, $end$);&#10;}};" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
