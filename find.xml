@@ -13,5 +13,6 @@
     <mask>*.java</mask>
     <mask>*prod*</mask>
     <mask>*xml</mask>
+    <mask>&amp;^</mask>
   </component>
 </application>
