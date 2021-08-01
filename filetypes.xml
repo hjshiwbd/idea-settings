@@ -6,12 +6,12 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".env.h5.development" type="PLAIN_TEXT" />
+      <mapping pattern="说明" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern="do_not_delete" type="PLAIN_TEXT" />
-      <mapping pattern="说明" type="PLAIN_TEXT" />
+      <mapping pattern=".env.h5.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.h5.development.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping ext="mp" type="Vue.js" />
