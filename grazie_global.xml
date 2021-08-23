@@ -6,6 +6,7 @@
           <set>
             <option value="CHINESE" />
             <option value="JAPANESE" />
+            <option value="SWEDISH" />
           </set>
         </option>
       </State>
