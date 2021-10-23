@@ -15,5 +15,6 @@
     <mask>&amp;^</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*bpmn20.xml</mask>
   </component>
 </application>
