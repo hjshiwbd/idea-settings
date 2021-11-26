@@ -3,10 +3,13 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl f" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="ctrl alt i" second-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl h" />
   </action>
 </keymap>
