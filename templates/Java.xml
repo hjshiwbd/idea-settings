@@ -1,5 +1,5 @@
 <templateSet group="Java">
-  <template name="tomap" value=".collect(Collectors.toMap(o-&gt;$VAR$, o-&gt;$END$));" description="" toReformat="false" toShortenFQNames="true">
+  <template name="tomap" value="collect(Collectors.toMap(o-&gt;$VAR$, o-&gt;$END$));" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="false" />
