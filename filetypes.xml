@@ -4,7 +4,6 @@
       <mapping pattern="safe_to_delete" type="AUTO_DETECTED" />
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -18,11 +17,11 @@
       <mapping pattern=".env.h5.development.local" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="Shell Script" />
+      <mapping ext="mp" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="bpmn" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
       <removed_mapping pattern="*wxml" approved="true" type="HTML" />
-      <mapping ext="mp" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
