@@ -9,6 +9,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="说明" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.h5.release" type="PLAIN_TEXT" />
+      <mapping pattern=".env.release" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.beta" type="PLAIN_TEXT" />
