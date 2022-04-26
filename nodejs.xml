@@ -1,0 +1,6 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="E:/Program Files (x86)/Tencent/微信web开发者工具/node.exe" />
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+</application>
