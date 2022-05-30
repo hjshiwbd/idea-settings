@@ -82,7 +82,6 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -187,6 +186,19 @@
                 <set>
                   <option value="JavaScript" />
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.zxy.ijplugin.wechat-miniprogram">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JavaScript" />
+                  <option value="com.intellij.css" />
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
