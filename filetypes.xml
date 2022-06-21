@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="safe_to_delete" type="AUTO_DETECTED" />
-      <mapping ext="sql" type="DBN-SQL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -17,12 +16,12 @@
       <mapping pattern=".env.h5.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.h5.development.local" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <removed_mapping ext="sql" type="SQL" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping ext="mp" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="bpmn" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
+      <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping ext="wxss" approved="true" type="CSS" />
       <removed_mapping pattern="*wxml" approved="true" type="HTML" />
