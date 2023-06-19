@@ -2,24 +2,6 @@
   <component name="DiffApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://git.wedemo.cn:82" />
-          <option name="userName" value="huangj@yuzhi.cn" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://192.168.0.117" />
-          <option name="userName" value="huangj@yuzhi.cn" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitee.com" />
-          <option name="userName" value="2812581776@qq.com" />
-        </UrlAndUserName>
-      </list>
-    </option>
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
       <list>
