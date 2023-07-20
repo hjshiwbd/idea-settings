@@ -9,5 +9,6 @@
     <option name="userName" value="Takagi" />
     <option name="source" value="wechat_open" />
     <option name="sourceId" value="oTz1V6M18tfW8STgYnHlCArMJ4LQ" />
+    <option name="requestLimitNotificationShown" value="true" />
   </component>
 </application>
