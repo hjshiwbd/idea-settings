@@ -1,0 +1,14 @@
+<application>
+  <component name="aminer-codegeex">
+    <option name="generateCommentLanguageEnum" value="zh-CN" />
+    <option name="askCodegeexLanguageEnum" value="zh-CN" />
+    <option name="telemetryEnabled" value="true" />
+    <option name="telemetryConfigured" value="true" />
+    <option name="sessionId" value="7e10777c-9a32-472b-872e-cf091c6a8082" />
+    <option name="userId" value="ea9b686c325c4a188b206a8b63448585" />
+    <option name="userName" value="Takagi" />
+    <option name="source" value="wechat_open" />
+    <option name="sourceId" value="oTz1V6M18tfW8STgYnHlCArMJ4LQ" />
+    <option name="requestLimitNotificationShown" value="true" />
+  </component>
+</application>
