@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGlance Pro">
     <option name="consoleWidth" value="88" />
+    <option name="mainWidth" value="109" />
   </component>
 </application>
