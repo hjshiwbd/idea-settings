@@ -9,6 +9,7 @@
     <option name="userName" value="Takagi" />
     <option name="source" value="wechat_open" />
     <option name="sourceId" value="oTz1V6M18tfW8STgYnHlCArMJ4LQ" />
-    <option name="requestLimitNotificationShown" value="true" />
+    <option name="configCacheSeconds" value="43200" />
+    <option name="minCompletionDelay" value="500" />
   </component>
 </application>
