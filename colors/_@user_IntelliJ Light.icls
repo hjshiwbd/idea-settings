@@ -16,6 +16,7 @@
       <value>
         <option name="FOREGROUND" value="6dcc" />
         <option name="EFFECT_COLOR" value="6dcc" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
   </attributes>
