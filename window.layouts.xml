@@ -1,0 +1,290 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.24596564
+        },
+        {
+          "id": "Structure",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Favorites",
+          "order": 2,
+          "isSplit": true
+        },
+        {
+          "id": "Commit",
+          "order": 3
+        },
+        {
+          "id": "Learn",
+          "order": 4
+        },
+        {
+          "id": "Pull Requests",
+          "order": 5
+        },
+        {
+          "id": "Space Code Reviews",
+          "order": 6
+        },
+        {
+          "id": "JRebel",
+          "order": 7,
+          "isSplit": true
+        },
+        {
+          "id": "Bookmarks",
+          "order": 8,
+          "isSplit": true
+        },
+        {
+          "id": "Web",
+          "order": 8,
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Message",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "weight": 0.33028847
+        },
+        {
+          "id": "Event Log",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.32932693,
+          "isSplit": true
+        },
+        {
+          "id": "Run",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.33028847
+        },
+        {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.32932693
+        },
+        {
+          "id": "Problems View",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Cvs",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "weight": 0.25
+        },
+        {
+          "id": "Profiler",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "order": 8,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Eval Reset",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.33028847
+        },
+        {
+          "id": "Version Control",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "weight": 0.3235577
+        },
+        {
+          "id": "Terminal",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "weight": 0.33028847
+        },
+        {
+          "id": "MyBatis Log",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "weight": 0.33028847
+        },
+        {
+          "id": "Internal Method Tracing",
+          "order": 13,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Inspection",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Database Changes",
+          "order": 15,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "order": 16,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "order": 17,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Flow",
+          "order": 18,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "JRebel Console",
+          "order": 19,
+          "anchor": "BOTTOM",
+          "weight": 0.33990383,
+          "isSplit": true
+        },
+        {
+          "id": "Endpoints",
+          "order": 20,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Build",
+          "order": 21,
+          "anchor": "BOTTOM",
+          "weight": 0.33028847
+        },
+        {
+          "id": "Services",
+          "order": 22,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Dependencies",
+          "order": 23,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Java Enterprise",
+          "order": 24,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Spring",
+          "order": 25,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Problems",
+          "order": 26,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Commander",
+          "order": 0,
+          "anchor": "RIGHT",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.4
+        },
+        {
+          "id": "Ant Build",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Hierarchy",
+          "order": 2,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 3,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Space Automation",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Maven",
+          "order": 5,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "JRebel Setup Guide",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32977617,
+          "isSplit": true
+        },
+        {
+          "id": "Bean Validation",
+          "order": 7,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Documentation",
+          "order": 8,
+          "anchor": "RIGHT",
+          "floatingBounds": [
+            0,
+            0,
+            434,
+            856
+          ],
+          "isVisible": true,
+          "weight": 0.32977617,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 8,
+          "anchor": "RIGHT",
+          "isSplit": true
+        }
+      ]
+    }
+  }
+}]]></component>
+</application>
