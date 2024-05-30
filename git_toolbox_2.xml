@@ -3,5 +3,6 @@
     <option name="checkPushed" value="false" />
     <option name="checkUncommittedFiles" value="false" />
     <option name="showBlameWidget" value="false" />
+    <option name="startupNotificationVersion" value="1" />
   </component>
 </application>
