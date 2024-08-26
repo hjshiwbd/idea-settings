@@ -1,0 +1,11 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2024.3.1" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2024.3.1" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToScreamingSnakeCaseAction" />
+        <option name="description" value="To SCREAMING_SNAKE_CASE" />
+        <option name="textWithMnemonic" value="To SCREAMING_SNAKE_CASE" />
+      </UniversalActionModel>
+    </option>
+  </component>
+</application>
