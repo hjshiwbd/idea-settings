@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager">
-    <laf themeId="ExperimentalLight" />
+    <laf themeId="JetBrainsLightTheme" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalLightWithLightHeader" scheme="_@user_IntelliJ Light" />
     </lafs-to-previous-schemes>
