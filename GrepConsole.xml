@@ -37,9 +37,7 @@
           <option name="defaultProfile" value="true" />
           <option name="grepExpressionGroups">
             <list>
-              <GrepExpressionGroup>
-                <option name="name" value="default" />
-              </GrepExpressionGroup>
+              <GrepExpressionGroup />
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
@@ -207,7 +205,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
@@ -215,6 +212,6 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </application>

@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="Oracle OpenJDK 1.8.0_311" />
+      <version value="java version &quot;1.8.0_311&quot;" />
       <homePath value="C:/Program Files/Java/jdk1.8.0_311" />
       <roots>
         <annotationsPath>
