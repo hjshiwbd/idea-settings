@@ -9,13 +9,14 @@
     <property name="partialSave">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="6dcc" />
         <option name="EFFECT_COLOR" value="6dcc" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
   </attributes>
