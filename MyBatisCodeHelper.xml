@@ -5,6 +5,7 @@
         <option name="database" value="PostgreSQL" />
         <option name="maxMeetContext" value="43" />
         <option name="useFreeVersion" value="true" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>

@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.wxml</mask>
     <mask>*.less</mask>
     <mask>*prod*</mask>
@@ -18,5 +19,6 @@
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
