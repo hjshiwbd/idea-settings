@@ -1,28 +1,7 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="settings.saveactions" />
-      </component>
-      <component name="SaveActionSettings">
-        <option name="actions">
-          <set>
-            <option value="activate" />
-            <option value="organizeImports" />
-            <option value="reformat" />
-          </set>
-        </option>
-        <option name="configurationPath" value="" />
-        <option name="inclusions">
-          <set>
-            <option value=".*\.java" />
-            <option value=".*\.js" />
-            <option value=".*\.vue" />
-            <option value=".*\.xml" />
-            <option value=".*\.yml" />
-          </set>
-        </option>
-      </component>
+      <component name="PropertiesComponent"><![CDATA[{}]]></component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
