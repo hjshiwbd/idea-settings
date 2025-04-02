@@ -1,7 +1,0 @@
-<application>
-  <component name="Inline Third Parties">
-    <thirdParties>
-      <entry id="com.alibabacloud.intellij.cosy" is-enabled="true" />
-    </thirdParties>
-  </component>
-</application>
