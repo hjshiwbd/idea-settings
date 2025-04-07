@@ -1,17 +1,10 @@
 <application>
   <component name="GraziConfig">
-    <option name="userDisabledRules">
-      <set>
-        <option value="LanguageTool.EN.ENGLISH_WORD_REPEAT_RULE" />
-      </set>
-    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
           <set>
             <option value="CHINESE" />
-            <option value="JAPANESE" />
-            <option value="SWEDISH" />
           </set>
         </option>
       </State>

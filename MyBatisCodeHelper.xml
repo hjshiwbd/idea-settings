@@ -2,8 +2,6 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="database" value="PostgreSQL" />
-        <option name="maxMeetContext" value="43" />
         <option name="useFreeVersion" value="true" />
       </Profile>
     </option>

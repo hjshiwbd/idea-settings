@@ -1,8 +1,5 @@
 <application>
   <component name="CosySettings">
-    <option name="dedicatedDomainUrl" value="" />
-    <option name="localStoragePath" value="C:\Users\Administrator\.lingma" />
-    <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -33,9 +30,7 @@
         </option>
       </ChangeUserSettingParams>
     </option>
-    <option name="showCheckReportUsage" value="false" />
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
-    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>

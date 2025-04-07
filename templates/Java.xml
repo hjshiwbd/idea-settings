@@ -1,59 +1,10 @@
 <templateSet group="Java">
-  <template name="tomap" value="collect(Collectors.toMap(o-&gt;$VAR$, o-&gt;$END$));" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_CONSUMER" value="false" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-    </context>
-  </template>
-  <template name="groupby" value="collect(Collectors.groupingBy(o-&gt;$END$))" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_CONSUMER" value="false" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-    </context>
-  </template>
-  <template name="ofnull" value="Optional.ofNullable($var$).map(o-&gt;$end$);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_CONSUMER" value="false" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-    </context>
-  </template>
-  <template name="newmap" value="Map&lt;String,Object&gt; $cond$ = new HashMap&lt;String,Object&gt;() {{&#10;    put(&quot;$key$&quot;, $end$);&#10;}};" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="cond" expression="" defaultValue="&quot;cond&quot;" alwaysStopAt="true" />
-    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_EXPRESSION" value="true" />
-    </context>
-  </template>
-  <template name="tojson" value="JSON.toJSONString($END$)" description="obj to json using fastjson" toReformat="true" toShortenFQNames="true">
+  <template name="newmap" value="Map&lt;String, Object&gt; cond = new java.util.HashMap&lt;&gt;();&#10;cond.put(&quot;$END$&quot;, &quot;&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newmap2" value="Map&lt;String, Object&gt; $cond$ = new HashMap&lt;&gt;();&#10;$cond$.put(&quot;$key$&quot;, &quot;$end$&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="cond" expression="" defaultValue="&quot;cond&quot;" alwaysStopAt="false" />
-    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="newmap2" value="cn.hutool.core.map.MapUtil.&lt;String, Object&gt;builder().put(&quot;$END$&quot;, &quot;&quot;).build();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

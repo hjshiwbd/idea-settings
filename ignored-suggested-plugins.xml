@@ -2,9 +2,8 @@
   <component name="IgnoredPluginSuggestions">
     <option name="pluginIds">
       <list>
-        <option value="com.intellij.bigdatatools" />
-        <option value="Pythonid" />
         <option value="com.intellij.spring.websocket" />
+        <option value="Batch Scripts Support" />
       </list>
     </option>
   </component>
