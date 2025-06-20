@@ -2,6 +2,7 @@
   <component name="CosySettings">
     <option name="chatModelSelected">
       <map>
+        <entry key="D:/git/yuzhi/basemgt-app-parent-inline" value="default" />
         <entry key="chat" value="default" />
         <entry key="developer" value="default" />
       </map>
