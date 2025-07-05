@@ -2,7 +2,6 @@
   <component name="JavaRebelPlugin">
     <option name="ideInstallationStorage">
       <map>
-        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2025.2.0" />
         <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2025.3.0" />
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
