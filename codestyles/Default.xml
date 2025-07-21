@@ -1,4 +1,9 @@
 <code_scheme name="Default" version="173">
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="globPattern" pattern="ExamineRecordMapper.xml" />
+    </list>
+  </option>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />

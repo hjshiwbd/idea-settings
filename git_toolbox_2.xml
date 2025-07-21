@@ -2,6 +2,16 @@
   <component name="GitToolBoxAppSettings2">
     <option name="checkPushed" value="false" />
     <option name="checkUncommittedFiles" value="false" />
+    <option name="commitMessageValidationConfig">
+      <CommitMessageValidationConfig>
+        <option name="regexConfig">
+          <RegexConfig>
+            <option name="expression" value="(bug|feat):.{3,9999}" />
+            <option name="testInput" value="bug:" />
+          </RegexConfig>
+        </option>
+      </CommitMessageValidationConfig>
+    </option>
     <option name="commitMessageValidationEnabled" value="true" />
   </component>
 </application>
