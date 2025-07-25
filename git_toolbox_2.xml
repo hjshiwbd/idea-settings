@@ -12,6 +12,5 @@
         </option>
       </CommitMessageValidationConfig>
     </option>
-    <option name="commitMessageValidationEnabled" value="true" />
   </component>
 </application>
