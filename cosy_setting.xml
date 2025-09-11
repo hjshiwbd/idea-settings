@@ -38,6 +38,29 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentComplexQueries">
+      <map>
+        <entry key="mes-backend|1642005546328457|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="常见的vue2框架的后台管理系统里&#10;需要动态设置左侧菜单的功能&#10;这种功能往往依赖于vue router的addrouter的api&#10;这个api的前置是依赖于webpack的静态打包的&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
   </component>
