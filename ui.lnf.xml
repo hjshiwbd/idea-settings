@@ -3,5 +3,6 @@
     <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="MAX_LOOKUP_WIDTH2" value="955" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
   </component>
 </application>
