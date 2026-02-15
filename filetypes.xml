@@ -19,6 +19,7 @@
       <mapping pattern=".env" type="Shell Script" />
       <mapping ext="mp" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="APK" />
+      <removed_mapping ext="mermaid" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
