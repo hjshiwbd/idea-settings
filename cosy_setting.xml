@@ -1,9 +1,15 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModeSelected">
+      <map>
+        <entry key="D:/git/yuzhi/mes-backend" value="agent" />
+      </map>
+    </option>
     <option name="chatModelSelected">
       <map>
         <entry key="D:/git/yuzhi/basemgt-app-parent-chat" value="default" />
         <entry key="D:/git/yuzhi/basemgt-app-parent-inline" value="default" />
+        <entry key="D:/git/yuzhi/mes-backend-assistant" value="automatic" />
         <entry key="chat" value="default" />
         <entry key="developer" value="default" />
       </map>
