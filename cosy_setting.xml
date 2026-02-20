@@ -855,6 +855,19 @@
                   </list>
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="请求后报错, curl -X POST http://localhost:6441/jmreport/common/saaslogin&#10;&#10;&#10;mes|http-nio-6441-exec-81|2026-02-20 20:05:05.792|ERROR|org.jeecg.modules.jmreport.config.firewall.interceptor.JimuReportTokenInterceptor.preHandle:139|Token校验失败！请求无权限(POST)：/jmreport/common/saaslogin&#10; , 为啥, 这个拦截器怎么加入项目的" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
