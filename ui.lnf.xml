@@ -1,8 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="SHOW_MAIN_MENU_MODE" value="SEPARATE_TOOLBAR" />
     <option name="MAX_LOOKUP_WIDTH2" value="955" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
-    <option name="SEPARATE_MAIN_MENU" value="true" />
   </component>
 </application>
