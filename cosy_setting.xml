@@ -21,6 +21,15 @@
       </map>
     </option>
     <option name="dedicatedDomainUrl" value="" />
+    <option name="nextConfig">
+      <QoderNextConfig>
+        <option name="disableLanguages">
+          <list>
+            <option value="plaintext" />
+          </list>
+        </option>
+      </QoderNextConfig>
+    </option>
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
